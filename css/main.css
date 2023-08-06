@@ -3292,7 +3292,7 @@ input::-moz-focus-inner {
 
 .contact-email {
   font-family: "Roboto", sans-serif;
-  font-size: 8.2rem;
+  font-size: 8rem;
   font-weight: 400;
   line-height: 1;
   margin: 5.6rem 0 8rem;
@@ -3362,7 +3362,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3377,7 +3377,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 3rem;
   }
 
   .contact-infos {
@@ -3388,7 +3388,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 2rem;
   }
 
   .contact-infos {
@@ -3407,7 +3407,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 5vw;
   }
 
   .contact-infos {
